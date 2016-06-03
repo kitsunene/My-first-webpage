@@ -1,0 +1,19 @@
+h1 {
+  color: #009933;
+  font-family: Unicode;
+  font-style: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  color: #6600ff;
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 20px;
+}
+
+ul {
+  font-size: 15px;
+  line-height: 20px;
+}
